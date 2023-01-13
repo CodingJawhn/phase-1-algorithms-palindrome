@@ -17,6 +17,7 @@ function should return `true` if the string is a palindrome (that is, if it
 reads the same forwards and backwards, like `"mom"` or `"racecar"`), and return
 `false` if it is not a palindrome.
 
+
 To keep things simple, your function only needs to deal with lowercase strings
 that are all letters (don't worry about spaces or special characters).
 
